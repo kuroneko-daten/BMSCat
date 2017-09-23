@@ -36,8 +36,8 @@ public:
 
 private:
     std::string path_ = "";         //bms file path
-    std::string genre_ "";          //genre
-    std::string title_ "";          //title
+    std::string genre_ ="";          //genre
+    std::string title_ ="";          //title
     std::string subtitle =  "";     //subtitle
     std::string artist_ = "";       //artist
     std::string subartist_ = "";    //subartist
